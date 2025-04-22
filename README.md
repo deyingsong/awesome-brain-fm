@@ -13,7 +13,7 @@ A professionally curated list of **Modeling papers**, **Datasets**, **Experiment
 - benchmarks, python libraries, and opensource data platform for neural and behavior data
 - tutorials and other resources for foundation models for the brain
 
-though it may not be fully exhaustive.
+though it may not be fully exhaustive. This repository is a work in progress and will be updated regularly.
 
 ![](fig/word_cloud.png)
 
