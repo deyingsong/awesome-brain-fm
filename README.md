@@ -1,4 +1,4 @@
-# Awesome-Foundation-Models-for-the-Brain
+# Awesome Foundation Models for the Brain
 
 ![](https://img.shields.io/badge/PaperNumber-197-brightgreen)
 ![](https://img.shields.io/badge/HighlightedPaperNumber-28-brightgreen)
