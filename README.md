@@ -200,7 +200,7 @@ Task:
 
 #### EEG (electroencepholography) and fMRI analysis (Total: 12)
 
-
+- SIM: Surface-based fMRI Analysis for Inter-Subject Multimodal Decoding from Movie-Watching Experiments [[arXiv 2025](https://arxiv.org/abs/2501.16471)] [[ICLR 2025](https://openreview.net/forum?id=OJsMGsO6yn)] [[GitHub](https://github.com/SD3004/sim)] ![](https://img.shields.io/badge/Human-blue) ![](https://img.shields.io/badge/fMRI-green) ![](https://img.shields.io/badge/Visual-orange) ![](https://img.shields.io/badge/Auditory-orange) 
 - Brainwide hemodynamics predict neural rhythms across sleep and wakefulness in humans [[bioRxiv 2024](https://www.biorxiv.org/content/10.1101/2024.01.29.577429v3)] ![](https://img.shields.io/badge/Human-blue) ![](https://img.shields.io/badge/fMRI-green) ![](https://img.shields.io/badge/EEG-green) ![](https://img.shields.io/badge/Sleep-orange)
 - JGAT: a joint spatio-temporal graph attention model for brain decoding [[arXiv 2023](https://arxiv.org/abs/2306.05286)] [[GitHub](https://github.com/BRAINML-GT/JGAT)] ![](https://img.shields.io/badge/Human-blue) ![](https://img.shields.io/badge/NHP-blue) ![](https://img.shields.io/badge/fMRI-green) ![](https://img.shields.io/badge/Ephys-green) ![](https://img.shields.io/badge/WM-orange) ![](https://img.shields.io/badge/Motor-orange)
 - LGGNet: Learning from Local-Global-Graph Representations for Brain-Computer Interface [[IEEE Transactions on NNLS 2023](https://arxiv.org/abs/2105.02786)] [[GitHub](https://github.com/yi-ding-cs/LGG)] ![](https://img.shields.io/badge/Human-blue) ![](https://img.shields.io/badge/EEG-green) ![](https://img.shields.io/badge/Motor-orange) 
