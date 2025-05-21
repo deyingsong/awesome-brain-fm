@@ -119,7 +119,7 @@ Task:
 
 
 
-## Other related papers (Total: 185, Highlighted total: 28)
+## Other related papers (Total: 188, Highlighted total: 28)
 
 ### Machine learning and statistical models (Total: 73, Highlighted total: 11)
 
@@ -215,8 +215,8 @@ Task:
 - Self-Supervised Representation Learning from Electroencephalography Signals [[MLSP 2019](https://arxiv.org/abs/1911.05419)] [[GitHub](https://github.com/sccn/eeg-ssl)] ![](https://img.shields.io/badge/Human-blue) ![](https://img.shields.io/badge/EEG-green) ![](https://img.shields.io/badge/Sleep-orange)
 
 
-### Large-scale experimental recording and imaging (Total: 85, Highlighted total: 12) 
-<!-- ### (Total: 85) -->
+### Large-scale experimental recording and imaging (Total: 88, Highlighted total: 12) 
+<!-- ### (Total: 88) -->
 
 #### Electrophysiology recording (Total: 25, Highlighted total: 7)
 
@@ -249,7 +249,7 @@ Task:
 
 
 
-#### Optical imaging (Total: 28, Highlighted total: 5)
+#### Optical imaging (Total: 31, Highlighted total: 5)
 
 - Functional connectomics spanning multiple areas of mouse visual cortex [[Nature 2025](https://www.nature.com/articles/s41586-025-08790-w)] [[GitHub](https://github.com/AllenInstitute/MicronsFunctionalConnectomics)] [[data](https://bossdb.org/project/microns-minnie)] ![](https://img.shields.io/badge/Mouse-blue) ![](https://img.shields.io/badge/Calcium-green) ![](https://img.shields.io/badge/Visual-orange)
 - Functional connectomics reveals general wiring rule in mouse visual cortex [[Nature 2025](https://www.nature.com/articles/s41586-025-08840-3)] [[GitHub](https://github.com/cajal/microns-funconn-2025)] [[data](https://bossdb.org/project/microns-minnie)] ![](https://img.shields.io/badge/Mouse-blue) ![](https://img.shields.io/badge/Calcium-green) ![](https://img.shields.io/badge/Visual-orange)
@@ -257,6 +257,7 @@ Task:
 - Cellpose3: one-click image restoration for improved cellular segmentation [[Nature Methods 2025](https://www.nature.com/articles/s41592-025-02595-5)] [[GitHub](https://github.com/mouseland/cellpose)] ![](https://img.shields.io/badge/Calcium-green)
 - A deep learning pipeline for three-dimensional brain-wide mapping of local neuronal ensembles in teravoxel light-sheet microscopy [[Nature Methods 2025](https://www.nature.com/articles/s41592-024-02583-1)] [[GitHub](https://miracl.readthedocs.io/en/latest/)] ![](https://img.shields.io/badge/Calcium-green)
 - Cell-type-specific manifold analysis discloses independent geometric transformations in the hippocampal spatial code [[Neuron 2025](https://www.cell.com/neuron/fulltext/S0896-6273(25)00048-0)] [[GitHub](https://github.com/PridaLab/hippocampal_manifolds)] [[data](https://figshare.com/account/home#/projects/234014)] ![](https://img.shields.io/badge/Mouse-blue) ![](https://img.shields.io/badge/Calcium-green) ![](https://img.shields.io/badge/Navigation-orange)
+- Spike Rate Inference from Mouse Spinal Cord Calcium Imaging Data [[Journal of Neuroscience 2025](https://www.jneurosci.org/content/45/18/e1187242025)] [[GitHub](https://github.com/HelmchenLabSoftware/Cascade)] ![](https://img.shields.io/badge/Mouse-blue) ![](https://img.shields.io/badge/Calcium-green)
 - A critical initialization for biological neural networks [[bioRxiv 2025](https://www.biorxiv.org/content/10.1101/2025.01.10.632397v1.abstract)] ![](https://img.shields.io/badge/Mouse-blue) ![](https://img.shields.io/badge/Calcium-green) ![](https://img.shields.io/badge/Ephys-green) ![](https://img.shields.io/badge/Visual-orange) ![](https://img.shields.io/badge/Decision-orange)
 - A modular chemigenetic calcium indicator for multiplexed in vivo functional imaging [[Nature Methods 2024](https://www.nature.com/articles/s41592-024-02411-6)] [[GitHub](https://github.com/YaoChenLabWashU/2pFLIM_acquisition)] [[data](https://janelia.figshare.com/articles/dataset/WHaloCaMP_data/25934782?file=46698049)] ![](https://img.shields.io/badge/Calcium-green)
 - Spontaneous movements and their impact on neural activity fluctuate with latent engagement states [[bioRxiv 2024](https://www.biorxiv.org/content/10.1101/2023.06.26.546404v2.abstract)] ![](https://img.shields.io/badge/Mouse-blue) ![](https://img.shields.io/badge/Calcium-green) ![](https://img.shields.io/badge/Decision-orange)
@@ -270,6 +271,7 @@ Task:
 - Cellpose 2.0: how to train your own model [[Nature Methods 2022](https://www.nature.com/articles/s41592-022-01663-4)] ![](https://img.shields.io/badge/Calcium-green)
 - Task specificity in mouse parietal cortex [[Neuron 2022](https://www.cell.com/neuron/fulltext/S0896-6273(22)00662-6)] ![](https://img.shields.io/badge/Mouse-blue) ![](https://img.shields.io/badge/Calcium-green) ![](https://img.shields.io/badge/Decision-orange)
 - Chronic, cortex-wide imaging of specific cell populations during behavior [[Nature Protocols 2021](https://www.nature.com/articles/s41596-021-00527-z)] ![](https://img.shields.io/badge/Mouse-blue) ![](https://img.shields.io/badge/Calcium-green)
+- A database and deep learning toolbox for noise-optimized, generalized spike inference from calcium imaging [[Nature Neuroscience 2021](https://www.nature.com/articles/s41593-021-00895-5)] [[GitHub](https://github.com/HelmchenLabSoftware/Cascade)] [[data](https://colab.research.google.com/github/HelmchenLabSoftware/Cascade/blob/master/Demo%20scripts/Explore_ground_truth_datasets.ipynb)] ![](https://img.shields.io/badge/Mouse-blue) ![](https://img.shields.io/badge/Calcium-green)
 - <mark>High-precision coding in visual cortex</mark> [[Neuron 2021](https://www.cell.com/cell/fulltext/S0092-8674(21)00373-1?dgcid=raven_jbs_etoc_email)] [[GitHub](https://github.com/mouseland/stringer-et-al-2019)] [[data](https://janelia.figshare.com/articles/dataset/Recordings_of_20_000_neurons_from_V1_in_response_to_oriented_stimuli/8279387/3)] ![](https://img.shields.io/badge/Mouse-blue) ![](https://img.shields.io/badge/Calcium-green) ![](https://img.shields.io/badge/Visual-orange)
 - Diesel2p mesoscope with dual independent scan engines for flexible capture of dynamics in distributed neural circuitry [[Nature Communications 2021](https://www.nature.com/articles/s41467-021-26736-4)] [[data](https://figshare.com/articles/dataset/Diesel2p_mesoscope_with_dual_independent_scan_engines_for_flexible_capture_of_dynamics_in_distributed_neural_circuitry/15163914)] ![](https://img.shields.io/badge/Mouse-blue) ![](https://img.shields.io/badge/Calcium-green)
 - Sensory coding and the causal impact of mouse cortex in a visual decision [[eLife 2021](https://elifesciences.org/articles/63163)] [[data](https://figshare.com/articles/dataset/Zatka-Haas_et_al_2020_dataset/13008038)] ![](https://img.shields.io/badge/Mouse-blue) ![](https://img.shields.io/badge/Calcium-green) ![](https://img.shields.io/badge/Ephys-green) ![](https://img.shields.io/badge/Visual-orange)
@@ -279,6 +281,7 @@ Task:
 - <mark>Inception loops discover what excites neurons most using deep predictive models</mark> [[Nature Neuroscience 2019](https://www.nature.com/articles/s41593-019-0517-x)] [[GitHub](https://github.com/cajal/inception_loop2019)] ![](https://img.shields.io/badge/Mouse-blue) ![](https://img.shields.io/badge/Calcium-green) ![](https://img.shields.io/badge/Visual-orange)
 - <mark>Single-trial neural dynamics are dominated by richly varied movements</mark> [[Nature Neuroscience 2019](https://www.nature.com/articles/s41593-019-0502-4)] [[GitHub](https://github.com/churchlandlab/ridgeModel/tree/master)] ![](https://img.shields.io/badge/Mouse-blue) ![](https://img.shields.io/badge/Calcium-green) ![](https://img.shields.io/badge/Decision-orange)
 - Coherent encoding of subjective spatial position in visual cortex and hippocampus [[Nature 2018](https://www.nature.com/articles/s41586-018-0516-1)] ![](https://img.shields.io/badge/Mouse-blue) ![](https://img.shields.io/badge/Calcium-green) ![](https://img.shields.io/badge/Visual-orange) ![](https://img.shields.io/badge/Navigation-orange)
+- Suite2p: beyond 10,000 neurons with standard two-photon microscopy [[bioRxiv 2017](https://www.biorxiv.org/content/10.1101/061507v2)] [[GitHub](https://github.com/cortex-lab/Suite2P)] ![](https://img.shields.io/badge/Mouse-blue) ![](https://img.shields.io/badge/Calcium-green)
 
 
 #### Connectome and transcriptome (Total: 32)
